@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Jam-Band</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="styles/myStyle.css" rel="stylesheet" />
+    <script src="scripts/myScripts.js"></script>
+
+</head>
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
+
+    <!-- nav bar code -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#myPage">Logo</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#myPage">HOME</a></li>
+                    <li><a href="#band">BAND</a></li>
+                    <li><a href="#tour">TOUR</a></li>
+                    <li><a href="#contact">CONTACT</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            MORE
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Merchandise</a></li>
+                            <li><a href="#">Extras</a></li>
+                            <li><a href="#">Media</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <!-- Jumbotron - main section of website-->
+    <div id="mainSpace" class="jumbotron text-center">
+        <div id="modalAccess" class="container text-center modalAccessStyle panel" >
+            <div class="panel-body">
+                <h2>Band Jam</h2>
+                <h3>Are you hosting a party or an artist?</h3> 
+                <div class="row text-center">
+               
+                        <button id="btnHost" type="button" class="btn-default btn-lg" data-toggle="modal" data-target="#startModal">Host</button>         
+                        <button type="button" class="btn-default btn-lg">Artist</button>                    
+                </div>
+            </div>
+        </div>
+
+        <!-- Start Modal-->
+        <div id="startModal" class="modal fade modal-design" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Welcome! let's start the process</h4>
+                    </div>
+                    <div class="modal-body">
+                         <input id="Radio1" type="radio" />
+                    </div>
+                    <div class="modal-footer">
+                        <button id="btnBackHome" type="button" class="btn btn-default pull-left" data-dismiss="modal">Back</button>
+                        <button type="button" class="btn btn-default" onclick="showModal('mdlQuestion1')" >Next</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Question Set 1 Modal-->
+        <div id="mdlQuestion1" class="modal fade modal-design" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Welcome! let's start the process</h4>
+                    </div>
+                    <div class="modal-body">
+                        <input id="Radio1" type="radio" />
+                    </div>
+                    <div class="modal-footer">
+                        <button id="btnBackHome" type="button" class="btn btn-default pull-left" data-dismiss="modal">Back</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal" data-toggle="modal" data-target="">Next</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Container under the image for description -->
+    <div class="container text-center">
+        <h3>about the process</h3>
+        <br>
+        <div class="row">
+            <div class="col-sm-4">
+                <img src="bandmember.jpg" alt="Random Name">
+                <p><strong>answer some questions</strong></p><br>
+            </div>
+            <div class="col-sm-4">
+
+                <img src="bandmember.jpg" alt="Random Name">
+                <p><strong>get a quote</strong></p><br>
+            </div>
+            <div class="col-sm-4">
+                <img src="bandmember.jpg" alt="Random Name">
+                <p><strong>fulfill your music needs</strong></p><br>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>
