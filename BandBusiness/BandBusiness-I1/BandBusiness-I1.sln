@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandBusiness-I1", "BandBusiness-I1\BandBusiness-I1.csproj", "{AA90A590-0A53-4985-8CC5-2A7910CA7BAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BandBusiness-I1", "BandBusiness-I1\BandBusiness-I1.csproj", "{AA90A590-0A53-4985-8CC5-2A7910CA7BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Band.Base", "BandBase\Band.Base.csproj", "{B5279C74-6D45-4346-9E93-FD7760B27973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Band.Base.Entities", "Band.Base.Entities\Band.Base.Entities.csproj", "{D556D39D-1E43-4AF1-A663-66879CF27B24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AA90A590-0A53-4985-8CC5-2A7910CA7BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA90A590-0A53-4985-8CC5-2A7910CA7BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA90A590-0A53-4985-8CC5-2A7910CA7BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5279C74-6D45-4346-9E93-FD7760B27973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5279C74-6D45-4346-9E93-FD7760B27973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5279C74-6D45-4346-9E93-FD7760B27973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5279C74-6D45-4346-9E93-FD7760B27973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D556D39D-1E43-4AF1-A663-66879CF27B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D556D39D-1E43-4AF1-A663-66879CF27B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D556D39D-1E43-4AF1-A663-66879CF27B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D556D39D-1E43-4AF1-A663-66879CF27B24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

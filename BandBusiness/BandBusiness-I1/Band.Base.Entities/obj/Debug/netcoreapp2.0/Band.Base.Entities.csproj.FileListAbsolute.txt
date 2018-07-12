@@ -1,0 +1,9 @@
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\Band.Base.Entities\bin\Debug\netcoreapp2.0\Band.Base.Entities.deps.json
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\Band.Base.Entities\bin\Debug\netcoreapp2.0\Band.Base.Entities.dll
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\Band.Base.Entities\bin\Debug\netcoreapp2.0\Band.Base.dll
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\Band.Base.Entities\bin\Debug\netcoreapp2.0\Band.Base.pdb
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\Band.Base.Entities\obj\Debug\netcoreapp2.0\Band.Base.Entities.csprojAssemblyReference.cache
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\Band.Base.Entities\obj\Debug\netcoreapp2.0\Band.Base.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\Band.Base.Entities\obj\Debug\netcoreapp2.0\Band.Base.Entities.AssemblyInfoInputs.cache
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\Band.Base.Entities\obj\Debug\netcoreapp2.0\Band.Base.Entities.AssemblyInfo.cs
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\Band.Base.Entities\obj\Debug\netcoreapp2.0\Band.Base.Entities.csproj.CopyComplete

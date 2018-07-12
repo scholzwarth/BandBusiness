@@ -1,0 +1,9 @@
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\BandBase\bin\Debug\netcoreapp2.0\Band.Base.deps.json
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\BandBase\bin\Debug\netcoreapp2.0\Band.Base.dll
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\BandBase\bin\Debug\netcoreapp2.0\Band.Base.pdb
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\BandBase\obj\Debug\netcoreapp2.0\Band.Base.csprojAssemblyReference.cache
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\BandBase\obj\Debug\netcoreapp2.0\Band.Base.csproj.CoreCompileInputs.cache
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\BandBase\obj\Debug\netcoreapp2.0\Band.Base.AssemblyInfoInputs.cache
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\BandBase\obj\Debug\netcoreapp2.0\Band.Base.AssemblyInfo.cs
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\BandBase\obj\Debug\netcoreapp2.0\Band.Base.dll
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I1\BandBase\obj\Debug\netcoreapp2.0\Band.Base.pdb
