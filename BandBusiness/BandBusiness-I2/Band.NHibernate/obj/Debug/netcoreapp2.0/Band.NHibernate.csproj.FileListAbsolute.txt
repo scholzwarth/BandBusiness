@@ -1,0 +1,6 @@
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I2\Band.NHibernate\bin\Debug\netcoreapp2.0\Band.NHibernate.deps.json
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I2\Band.NHibernate\bin\Debug\netcoreapp2.0\Band.NHibernate.dll
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I2\Band.NHibernate\obj\Debug\netcoreapp2.0\Band.NHibernate.csprojAssemblyReference.cache
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I2\Band.NHibernate\obj\Debug\netcoreapp2.0\Band.NHibernate.csproj.CoreCompileInputs.cache
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I2\Band.NHibernate\obj\Debug\netcoreapp2.0\Band.NHibernate.AssemblyInfoInputs.cache
+C:\Projects\BandBusinessRepo\BandBusiness\BandBusiness-I2\Band.NHibernate\obj\Debug\netcoreapp2.0\Band.NHibernate.AssemblyInfo.cs
